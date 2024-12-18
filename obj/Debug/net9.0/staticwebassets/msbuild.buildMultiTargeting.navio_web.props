@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/navio_web.props" />
+</Project>
