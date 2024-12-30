@@ -12,9 +12,9 @@ namespace navio_web.Models
         public string MODAL { get; set; } = string.Empty;
 
         // Buscar Navios do BD
-        public static List<Navio> buscarNavios() // Renomeado para plural
+        public static List<Navio> buscarNavios() 
         {
-            var navios = new List<Navio>(); // Renomeado para evitar conflito
+            var navios = new List<Navio>(); 
             string query = "SELECT * FROM Navio";
             try
             {
@@ -27,7 +27,7 @@ namespace navio_web.Models
                     {
                         while (reader.Read())
                         {
-                            var navio = new Navio // Renomeado para evitar conflito
+                            var navio = new Navio 
                             {
                                 ID_NAVIO = reader.GetInt32("ID_NAVIO"), // ID_NAVIO deve ser lido como int
                                 NOME_NAVIO = reader.GetString("NOME_NAVIO"),

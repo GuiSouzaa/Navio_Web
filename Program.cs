@@ -8,18 +8,23 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<Conexao>();
 
 // Adicionar a configuração dos controladores
-builder.Services.AddControllers();  // Adicionar esse método
+builder.Services.AddControllers(); 
 
 var app = builder.Build();
 
-// Habilitando o Swagger UI
+// Habilitar o Swagger apenas em ambiente de desenvolvimento
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c =>
+    {
+        // Configurar a página inicial para abrir diretamente o Swagger UI
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
+        c.RoutePrefix = string.Empty; // Isso faz com que o Swagger UI esteja na raiz (/)
+    });
 }
 
 // Mapear os controladores
-app.MapControllers();  // Mapear os controladores
+app.MapControllers(); 
 
 app.Run();
