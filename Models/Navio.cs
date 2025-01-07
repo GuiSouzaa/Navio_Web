@@ -6,7 +6,7 @@ namespace navio_web.Models
 {
     public class Navio
     {
-        public int ID_NAVIO { get; set; } 
+        public int  ID_NAVIO { get; set; } 
         public string NOME_NAVIO { get; set; } = string.Empty;
         public string PORTO { get; set; } = string.Empty;
         public string MODAL { get; set; } = string.Empty;
@@ -60,7 +60,7 @@ namespace navio_web.Models
                     using (var cmd = new MySqlCommand(query, conexao))
                     {
                         cmd.Parameters.AddWithValue("@ID_NAVIO", idNavio);
-                        cmd.Parameters.AddWithValue("@NOME_NAVIO", nomeNavio); // Corrigido para incluir o símbolo '@'
+                        cmd.Parameters.AddWithValue("@NOME_NAVIO", nomeNavio);
                         cmd.Parameters.AddWithValue("@PORTO", porto);
                         cmd.Parameters.AddWithValue("@MODAL", modal);
 
