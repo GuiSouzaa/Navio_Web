@@ -90,7 +90,7 @@ namespace navio_web.Models
 
                         if (count == 0)
                         {
-                            throw new Exception("Navio não encontrado."); // Corrigido para "Navio"
+                            throw new Exception("Navio não encontrado.");
                         }
                     }
 
@@ -141,6 +141,8 @@ namespace navio_web.Models
                 Console.WriteLine("ERRO!" + ex.Message);
             }
         }
+
+        //Seguinte, ele atualiza o produto e cadastra, porem ao puxar usando o get, só tras os valores antigos, ver o porque esta acontecendo isso.
         
     }
     
