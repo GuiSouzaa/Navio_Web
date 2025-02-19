@@ -7,8 +7,8 @@ builder.Services.AddSwaggerGen();
 // Registrando a classe Conexao
 builder.Services.AddSingleton<Conexao>();
 
-// Adicionar a configuração dos controladores
-builder.Services.AddControllers(); 
+//  Alterado para suportar MVC com Views
+builder.Services.AddControllersWithViews(); 
 
 var app = builder.Build();
 
@@ -18,13 +18,21 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        // Configurar a página inicial para abrir diretamente o Swagger UI
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1");
-        c.RoutePrefix = string.Empty; // Isso faz com que o Swagger UI esteja na raiz (/)
+        c.RoutePrefix = "swagger"; // Agora o Swagger abre em /swagger
     });
 }
 
-// Mapear os controladores
-app.MapControllers(); 
+// Adicionado suporte a arquivos estáticos (CSS, JS, imagens)
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+// Adicionado para permitir o MVC renderizar Views
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

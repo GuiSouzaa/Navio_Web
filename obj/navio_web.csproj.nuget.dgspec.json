@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/guilherme/dev/navio_web/navio_web.csproj": {}
+    "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/navio_web.csproj": {}
   },
   "projects": {
-    "/home/guilherme/dev/navio_web/navio_web.csproj": {
+    "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/navio_web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/guilherme/dev/navio_web/navio_web.csproj",
+        "projectUniqueName": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/navio_web.csproj",
         "projectName": "navio_web",
-        "projectPath": "/home/guilherme/dev/navio_web/navio_web.csproj",
-        "packagesPath": "/home/guilherme/.nuget/packages/",
-        "outputPath": "/home/guilherme/dev/navio_web/obj/",
+        "projectPath": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/navio_web.csproj",
+        "packagesPath": "/home/guilhermerodrigues/.nuget/packages/",
+        "outputPath": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/guilherme/.nuget/NuGet/NuGet.Config"
+          "/home/guilhermerodrigues/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
