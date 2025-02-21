@@ -427,3 +427,5 @@
 /home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/kz4fsjt22s-qoiow6580b.gz
 /home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/t87c3dcm02-qoiow6580b.gz
 /home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/daydn1bn7g-zyked9rz3v.gz
+/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz
+/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz

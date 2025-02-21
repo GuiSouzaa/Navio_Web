@@ -18,7 +18,7 @@ namespace Navio_Web.Controllers
 
             if (email == emailFixo && senha == senhaFixa)
             {
-                return RedirectToAction("Dashboard");
+                return RedirectToAction("Index", "Dashboard");//Aqui me manda para a tela de dashboard
             }
             else
             {
