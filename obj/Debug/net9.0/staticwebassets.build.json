@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JK8Guttecdk7f4bEWV5iSvcK8tTsDQnDoaX6LX+a09Y=",
+  "Hash": "adgXlj7B+Ag52PmkFK+/cUfcxV68VIAe5XwwhKReJcE=",
   "Source": "navio_web",
   "BasePath": "_content/navio_web",
   "Mode": "Default",
@@ -458,6 +458,27 @@
       "OriginalItemSpec": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
+      "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz",
+      "SourceId": "navio_web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/navio_web",
+      "RelativePath": "css/Dashboard/Dashboard#[.{fingerprint=phtx4z8u6l}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tvwwx71wjt",
+      "Integrity": "h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css"
+    },
+    {
       "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/daydn1bn7g-zyked9rz3v.gz",
       "SourceId": "navio_web",
       "SourceType": "Discovered",
@@ -855,6 +876,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz",
+      "SourceId": "navio_web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/navio_web",
+      "RelativePath": "js/Dashboard/leftbar#[.{fingerprint=hi4xqm1cm7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2hwzs5sv3q",
+      "Integrity": "Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js"
     },
     {
       "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/nf8l3tcwgr-pj5nd1wqec.gz",
@@ -1424,6 +1466,27 @@
       "OriginalItemSpec": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/scopedcss/projectbundle/navio_web.bundle.scp.css"
     },
     {
+      "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css",
+      "SourceId": "navio_web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/",
+      "BasePath": "_content/navio_web",
+      "RelativePath": "css/Dashboard/Dashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "phtx4z8u6l",
+      "Integrity": "c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Dashboard/Dashboard.css"
+    },
+    {
       "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Login/Login.css",
       "SourceId": "navio_web",
       "SourceType": "Discovered",
@@ -1506,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/principal.jpeg"
+    },
+    {
+      "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js",
+      "SourceId": "navio_web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/",
+      "BasePath": "_content/navio_web",
+      "RelativePath": "js/Dashboard/leftbar#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hi4xqm1cm7",
+      "Integrity": "5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/Dashboard/leftbar.js"
     },
     {
       "Identity": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/site.js",
@@ -2791,6 +2875,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/Dashboard/Dashboard.css",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002994011976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard/Dashboard.css",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard/Dashboard.css.gz",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard/Dashboard.phtx4z8u6l.css",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002994011976"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "phtx4z8u6l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Dashboard/Dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard/Dashboard.phtx4z8u6l.css",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "phtx4z8u6l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Dashboard/Dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/yestP/93+5aMQ5jW45gJXsFrTFNLRn+FGMNkUBq5M="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard/Dashboard.phtx4z8u6l.css.gz",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/d5h5mblkj9-phtx4z8u6l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "333"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "phtx4z8u6l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Dashboard/Dashboard.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h0TiCAuGPiWkFjUvH2s+R6+q4IjWYnZ64NJIJLTV/Js="
+        }
+      ]
+    },
+    {
       "Route": "css/Login/Login.css",
       "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/daydn1bn7g-zyked9rz3v.gz",
       "Selectors": [
@@ -2815,7 +3197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2868,7 +3250,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2905,7 +3287,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2952,7 +3334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3395,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3058,7 +3440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 15:57:16 GMT"
+          "Value": "Fri, 21 Feb 2025 15:47:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3763,6 +4145,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-ah4XLikcZnaox4JwJ5HAR2tlJHv7PMWccgVJB2xbFAM="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.hi4xqm1cm7.js",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008928571429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4xqm1cm7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Dashboard/leftbar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.hi4xqm1cm7.js",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4xqm1cm7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Dashboard/leftbar.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.hi4xqm1cm7.js.gz",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hi4xqm1cm7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Dashboard/leftbar.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.js",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008928571429"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.js",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+jnmgx8Uq/8C7ubmj1vTzH43NOS0CjVpb9pjjbRsx8="
+        }
+      ]
+    },
+    {
+      "Route": "js/Dashboard/leftbar.js.gz",
+      "AssetFile": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/obj/Debug/net9.0/compressed/n8a7dl3tog-hi4xqm1cm7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 18:27:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jt+218HALSZGS4fnuFWGD8sfJq7xC3RX8ZMRcOqA4o4="
         }
       ]
     },

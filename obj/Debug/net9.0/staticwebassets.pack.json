@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/navio_web.qoiow6580b.bundle.scp.css"
     },
     {
+      "Id": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Dashboard/Dashboard.css",
+      "PackagePath": "staticwebassets/css/Dashboard/Dashboard.css"
+    },
+    {
       "Id": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/css/Login/Login.css",
       "PackagePath": "staticwebassets/css/Login/Login.css"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/img/principal.jpeg",
       "PackagePath": "staticwebassets/img/principal.jpeg"
+    },
+    {
+      "Id": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/Dashboard/leftbar.js",
+      "PackagePath": "staticwebassets/js/Dashboard/leftbar.js"
     },
     {
       "Id": "/home/guilhermerodrigues/Documentos/Dev/Navio_Web/wwwroot/js/site.js",

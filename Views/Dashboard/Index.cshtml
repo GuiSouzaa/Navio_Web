@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/Dashboard/Dashboard.css" asp-append-version="true" />
+
+</head>
+
+<body>
+    <div class="menu_Hamburger" onclick="menu_Hamburger()">☰</div>
+
+    <header>
+        
+    </header>
+
+    <div class="left-bar">
+        <h2>Menu</h2>
+        <a href="#">Cadastro</a>
+        <a href="#">Produtos</a>
+        <a href="#">Importação</a>
+        <a href="#">Relatorio</a>
+        <a href="#">Sair</a>
+    </div>
+
+    <div class="content">
+        <h1>Conteudo Principal</h1>
+        <p>Texto exemplo</p>
+    </div>
+
+    <script src="js/Dashboard/leftbar.js" ></script>
+</body>
+</html>
